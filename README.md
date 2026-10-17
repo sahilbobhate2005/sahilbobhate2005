@@ -11,7 +11,7 @@ Building at the intersection of **AI/ML**, **GenAI**, and **Distributed Systems*
 
 ## About Me
 
-- 🎓 3rd-year B.Tech CSE student (CGPA: 8.74/10) at MIT-WPU, Pune
+- 🎓 4th-year B.Tech CSE student (CGPA: 8.71/10) at MIT-WPU, Pune
 - 🔬 Researching **zk-SNARKs for Non-Interactive Proofs** in Decentralised Identity Systems
 - 🤖 Passionate about **GenAI**, **LLM integration**, and **scalable distributed architectures**
 - ☁️ Building cloud-native backends on **AWS** (Lambda, DynamoDB, API Gateway)
