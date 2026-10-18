@@ -84,7 +84,7 @@ A full-stack analytics application integrating third-party REST APIs for real-ti
 ## Research
 
 **🔐 Hardware Timing Side-Channel Analysis on RSA** *(Oct 2026 – Present)*
-Conducting hardware-level cryptographic experiments on a Raspberry Pi to execute key-recovery attacks[cite: 5]. Analyzing timing leakages in modular exponentiation algorithms (Montgomery ladder vs. naive square-and-multiply) using Pearson correlation and SNR metrics, while manipulating CPU core isolation for noise control[cite: 5].
+Conducting hardware-level cryptographic experiments on a Raspberry Pi to execute key-recovery attacks. Analyzing timing leakages in modular exponentiation algorithms (Montgomery ladder vs. naive square-and-multiply) using Pearson correlation and SNR metrics, while manipulating CPU core isolation for noise control.
 
 **🛡️ zk-SNARKs for Non-Interactive Proofs in Decentralised Identity** *(Feb 2026 – Present)*
 Researching cryptographic zero-knowledge proof protocols to secure decentralised identity systems—eliminating intermediary trust requirements and reducing verification overhead in distributed authentication at scale.
